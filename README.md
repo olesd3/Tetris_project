@@ -1,0 +1,1 @@
+This is an implementation of the famous game Tetris. It was an voluntary assignment in my course "Procedural and Object-oriented Programming". The game is implemented in C++, and works without any issues. 
